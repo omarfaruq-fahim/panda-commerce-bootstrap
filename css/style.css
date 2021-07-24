@@ -4,6 +4,10 @@
 .categories img {
   width: 100px;
 }
+h2 {
+  color: gray;
+  font-size: 50px;
+}
 .panda-btn-buy-now {
   background-image: linear-gradient(to bottom, purple 0%, purple 100%);
   color: white;
